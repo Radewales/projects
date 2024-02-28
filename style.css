@@ -1,0 +1,29 @@
+.container{
+    background-color: black;
+}
+.content{
+    color: aliceblue;
+}
+.content p{
+    font-size: 33px;
+    text-align: center;
+}
+.content h1{
+    font-size: 64px;
+    font-weight: 600;
+    text-align: center;
+}
+.Launching-time{
+    display: flex;
+    text-align: center;
+    padding: 7px; 
+}
+.Launching-time div{
+    flex-basis: 100px;
+    
+}
+.Launching-time div p{
+    margin-bottom: -14px;
+    font-size: 60px;
+    
+}
